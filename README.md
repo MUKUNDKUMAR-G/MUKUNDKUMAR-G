@@ -1,123 +1,96 @@
-<!-- ===================== HERO ===================== -->
+<!-- ====================================================== -->
+
+<!--                    ANIME DEVELOPER                     -->
+
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:172554,100:0ea5e9&height=220&section=header&text=Mukundkumar%20G&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,40:312e81,75:7c3aed,100:06b6d4&height=240&section=header&text=Mukundkumar%20G&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Anime%20Enthusiast&descAlignY=61&descSize=18" width="100%"/>
 
-# 👋 Hey, I'm Mukundkumar G
+#  こんにちは、I'm Mukundkumar G
 
-### `Java Backend Developer` · `Spring Boot` · `PostgreSQL` · `Security`
+### `Java Backend Developer` · `Spring Boot` · `PostgreSQL` · `Anime Lover`
 
 <p>
   <a href="https://mukundkumar.framer.website/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mukundkumar-g/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-06b6d4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mukundkumar3146@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/MUKUNDKUMAR-G">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-f43f5e?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MUKUNDKUMAR-G&label=Profile%20Views&color=0ea5e9&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MUKUNDKUMAR-G&label=Profile%20Views&color=7c3aed&style=flat" />
 
 </div>
 
 ---
 
-<!-- ===================== INTRO ===================== -->
-
-## 🧑‍💻 About Me
+## 🌌 Who Am I?
 
 ```java
 public class Mukundkumar {
 
+    String name = "Mukundkumar G";
     String role = "Java Backend Developer";
 
-    String[] focus = {
+    String[] weapons = {
+        "Java",
         "Spring Boot",
-        "REST APIs",
         "Spring Security",
         "PostgreSQL",
-        "Backend Architecture"
+        "REST APIs"
     };
 
-    String[] currentlyExploring = {
+    String[] interests = {
+        "Backend Engineering",
+        "System Design",
         "Generative AI",
-        "Enterprise Java",
-        "Scalable Backend Systems"
+        "Anime"
     };
 
-    String philosophy =
-        "Build it secure. Build it scalable. Build it right.";
+    String motto = "Code like a ninja. Debug like a detective.";
 
 }
 ```
 
-I'm a **Java Backend Developer** focused on building secure, scalable and production-ready applications.
-
-I enjoy designing backend systems, developing RESTful APIs, implementing authentication and authorization, working with relational databases, and turning real-world requirements into maintainable software.
+> Building backend systems by day.
+> Watching anime by night.
+> Trying to level up at both.
 
 ---
 
-## ⚡ What I Do
+# Developer Arc
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔐 Secure Backend Systems
+### 🥷 Backend Shinobi
 
-* JWT Authentication
-* Role-Based Authorization
-* Spring Security
-* BCrypt Password Encryption
-* OTP Verification
-
-</td>
-
-<td width="50%">
-
-### 🏗️ Application Architecture
-
-* Layered Architecture
-* Controller / Service / Repository
-* DTO Pattern
-* REST API Design
-* Exception Handling
-* Validation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🗄️ Data & Transactions
-
-* PostgreSQL
-* MySQL
-* Hibernate
-* Spring Data JPA
-* Database Design
-* Transaction Management
+🔹 Java & Spring Boot
+🔹 REST API Development
+🔹 Spring Security
+🔹 JWT Authentication
+🔹 PostgreSQL
+🔹 Hibernate / JPA
 
 </td>
 
 <td width="50%">
 
-### 🚀 Integrations
+### Current Training Arc
 
-* Razorpay
-* Twilio
-* Firebase
-* Swagger / OpenAPI
-* Generative AI APIs
-* Third-party REST APIs
+🔹 System Design
+🔹 Advanced Spring Security
+🔹 Generative AI
+🔹 Scalable Architecture
+🔹 Enterprise Java
+🔹 Clean Code
 
 </td>
 </tr>
@@ -125,11 +98,11 @@ I enjoy designing backend systems, developing RESTful APIs, implementing authent
 
 ---
 
-# 🛠️ Technology Arsenal
+#  My Tech Arsenal
 
-### ☕ Backend
+### ☕ Backend — Main Weapon
 
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="50"/>
@@ -137,22 +110,21 @@ I enjoy designing backend systems, developing RESTful APIs, implementing authent
 
 `Java` · `Spring Boot` · `Spring MVC` · `Spring Security` · `Hibernate` · `JPA` · `JDBC` · `REST APIs` · `JWT`
 
-### 🎨 Frontend
+### 🎨 Frontend — Support Squad
 
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
 </p>
 
 `JavaScript` · `React.js` · `HTML5` · `CSS3` · `Tailwind CSS` · `Bootstrap`
 
-### 🗄️ Databases
+### 🗄️ Database — The Archive
 
-<p>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50"/>
@@ -160,78 +132,54 @@ I enjoy designing backend systems, developing RESTful APIs, implementing authent
 
 `PostgreSQL` · `MySQL` · `Firebase`
 
-### 🔧 Tools & Workflow
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
-</p>
-
-`Git` · `GitHub` · `Maven` · `Postman` · `Swagger/OpenAPI` · `Linux` · `VS Code` · `Eclipse`
-
 ---
 
-# 🚀 Featured Engineering Projects
+# My Featured Battles
 
-<div align="center">
+## ClickNBuy
 
-<a href="https://github.com/MUKUNDKUMAR-G/ClickNBuy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUKUNDKUMAR-G&repo=ClickNBuy&theme=tokyonight&hide_border=true" />
-</a>
+### `The E-Commerce Arc`
 
-</div>
-
-## 🛒 ClickNBuy
-
-### Full-Stack E-Commerce Platform
-
-> A secure e-commerce platform designed around authentication, payments, transactional workflows and scalable backend architecture.
-
-**Architecture**
+> A full-stack e-commerce platform built around secure authentication, payments and transactional workflows.
 
 ```text
-Client
-   │
-   ▼
-Spring Boot REST API
-   │
-   ├── Spring Security
-   │      ├── JWT
-   │      └── Role-Based Authorization
-   │
-   ├── Service Layer
-   │
-   ├── Repository Layer
-   │
-   └── PostgreSQL
-          │
-          ├── Users
-          ├── Products
-          ├── Cart
-          ├── Orders
-          └── Payments
+                  ┌────────────────────┐
+                  │      Frontend      │
+                  │    Thymeleaf UI    │
+                  └─────────┬──────────┘
+                            │
+                            ▼
+                  ┌────────────────────┐
+                  │    Spring Boot     │
+                  │     REST APIs      │
+                  └─────────┬──────────┘
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+        Spring Security   Services      JPA
+              │             │             │
+              ▼             ▼             ▼
+             JWT       Transactions   PostgreSQL
+              │
+              ▼
+      Razorpay + Twilio
 ```
 
-**Key Features**
+### 🧩 Abilities Unlocked
 
-* 🔐 JWT authentication & role-based authorization
-* 💳 Razorpay payment integration
-* 📱 Twilio OTP verification
-* 🔒 BCrypt password encryption
-* 🗄️ Normalized PostgreSQL schema
-* 🧩 DTO-based REST API architecture
-* ⚠️ Validation & custom exception handling
-* 🔄 Transaction-safe payment processing
-
-**Stack**
-
-`Java` `Spring Boot` `Spring Security` `Hibernate` `JPA` `Thymeleaf` `PostgreSQL` `Razorpay` `Twilio`
+* JWT Authentication
+* Role-Based Authorization
+* Razorpay Payment Integration
+* Twilio OTP Verification
+* BCrypt Password Encryption
+* PostgreSQL Database Design
+* DTO-Based Architecture
+* Custom Exception Handling
+* Transaction Management
 
 <p>
 <a href="https://github.com/MUKUNDKUMAR-G/ClickNBuy">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚔️_ENTER_THE_REPOSITORY-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -239,54 +187,52 @@ Spring Boot REST API
 
 ## ⚡ VidyutKshetra
 
-### Live Technology Fest Platform
+### `The Event Arc`
 
-A responsive event platform built for registrations, payments and real-time participant management.
+A responsive technology fest platform for registrations, payments and real-time participant management.
 
-**Highlights**
+**Special Abilities**
 
-* 🔥 Firebase-based registration
-* 💰 UPI payment flow
-* 📊 Real-time analytics
-* 🛠️ Admin dashboard
-* ⚡ Optimized for high traffic
-* 📱 Responsive across devices
+Firebase Registration
+UPI Payment Flow
+Real-Time Analytics
+Admin Dashboard
+Responsive UI
+High-Traffic Optimization
 
 `JavaScript` `Firebase` `HTML` `CSS`
 
 <p>
 <a href="https://naveenagastya.github.io/VidyutKshetra-2025/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡_LIVE_DEMO-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🏫 Akshobhya Public School
+## Akshobhya Public School
 
-### Production Client Website
+### `The Client Mission`
 
-A responsive multi-page website developed and deployed for a real-world client.
+A production website developed and deployed for a real-world client.
 
-**Highlights**
-
-* 📋 Class-wise seat booking
-* 📍 Google Maps integration
-* 🔎 SEO optimization
-* 🌐 Custom domain deployment
-* 📱 Responsive design
+📋 Seat Booking
+📍 Google Maps
+🔎 SEO Optimization
+🌐 Custom Domain
+📱 Responsive Design
 
 `HTML` `CSS` `JavaScript`
 
 <p>
 <a href="https://akshobhyapublicschool.in/">
-<img src="https://img.shields.io/badge/LIVE_WEBSITE-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 💼 Professional Experience
+# 💼 Professional Arc
 
 ### 🏢 Java Full Stack Developer Intern
 
@@ -294,72 +240,54 @@ A responsive multi-page website developed and deployed for a real-world client.
 
 `Dec 2025 → Jun 2026`
 
-> Worked on enterprise-grade applications using Java, Spring Boot, React.js and PostgreSQL.
+> ⚔️ **Mission:** Build enterprise-grade applications.
 
-**Responsibilities & Impact**
-
-* Designed and developed RESTful APIs
-* Implemented JWT authentication and role-based authorization
-* Built applications using Controller → Service → Repository architecture
-* Used Hibernate and Spring Data JPA
-* Applied DTO-based application design
-* Worked with Git, Maven and Agile workflows
-* Integrated Generative AI capabilities into Java applications
-
----
-
-### 💻 Web Development Intern
-
-**InternPe**
-
-`Feb 2025 → Mar 2025`
-
-* Developed multiple responsive JavaScript applications
-* Built an e-commerce prototype
-* Developed calculator and productivity applications
-* Built a multiplayer game
-* Improved responsive behavior across devices
+* Developed applications using **Java, Spring Boot, React.js & PostgreSQL**
+* Designed and consumed RESTful APIs
+* Implemented **JWT authentication & role-based authorization**
+* Worked with **Spring Security, Hibernate & Spring Data JPA**
+* Applied Controller → Service → Repository architecture
+* Used DTO design patterns
+* Collaborated using Git, Maven & Agile methodologies
+* Integrated **Generative AI capabilities** into Java applications
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements Unlocked
 
 <div align="center">
 
-| 🏅 Achievement                                             | 📅 Year |
-| :--------------------------------------------------------- | :-----: |
-| 🥇 Winner — Debugging Event, Bangalore University          |   2024  |
-| 🥈 Runner Up — Coding & Debugging, RIT & Acharya Institute |   2024  |
+🥇 **Winner** — Debugging Event, Bangalore University 2024
+
+<br>
+
+🥈 **Runner Up** — Coding & Debugging, RIT & Acharya Institute 2024
 
 </div>
 
 ---
 
-# 🎓 Education
+# 🎓 Education Arc
 
-### Bachelor of Computer Applications — BCA
+### 🎓 Bachelor of Computer Applications
 
-**Sri Jagadguru Renukacharya College of Science, Arts & Commerce, Bengaluru**
+**Sri Jagadguru Renukacharya College of Science, Arts & Commerce**
 
-`2022 – 2025`
+`2022 → 2025`
 
-**CGPA: 9.14 / 10**
+### ⭐ CGPA: `9.14 / 10`
 
-> Core coursework: Data Structures · OOP · DBMS · Operating Systems · Software Engineering
+`Data Structures` · `OOP` · `DBMS` · `Operating Systems` · `Software Engineering`
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Power Level
 
 <div align="center">
 
-<a href="https://github.com/MUKUNDKUMAR-G">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUKUNDKUMAR-G&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=MUKUNDKUMAR-G&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
 
-<a href="https://github.com/MUKUNDKUMAR-G">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKUNDKUMAR-G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKUNDKUMAR-G&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
 <br><br>
 
@@ -369,58 +297,94 @@ A responsive multi-page website developed and deployed for a real-world client.
 
 ---
 
-# 📈 Currently Learning
+# 📈 Current Training Arc
 
 ```text
-Spring Boot          ████████████████████░░  90%
-Spring Security      ██████████████████░░░░  85%
-PostgreSQL           ██████████████████░░░░  85%
-REST API Design      ███████████████████░░░  88%
-React.js             ███████████████░░░░░░░  70%
-System Design        ████████████░░░░░░░░░░  60%
-Generative AI        ███████████░░░░░░░░░░░  55%
+Java / Spring Boot        ████████████████████
+Spring Security           ███████████████████░
+PostgreSQL                ██████████████████░░
+REST API Architecture     ███████████████████░
+React.js                  ███████████████░░░░░
+System Design             ████████████░░░░░░░░
+Generative AI             ███████████░░░░░░░░░
 ```
 
 ---
 
-# 💡 Developer Philosophy
+# 🍥 Anime Corner
 
 <div align="center">
 
-### `"Clean code is not just about making software work."`
+### When I'm not coding...
 
-### `"It's about making the next change easier."`
+**🍥 I'm probably watching anime.**
+
+</div>
+
+```text
+Current Status:
+
+💻 Coding       ███████████████████░  90%
+☕ Tea          ██████████████████░░  85%
+🍥 Anime        ████████████████████  100%
+😴 Sleep        ███████░░░░░░░░░░░░░  35%
+```
+
+### 🎌 Anime I Enjoy
+
+`Naruto` · `One Piece` · `Attack on Titan` · `Demon Slayer` · `Jujutsu Kaisen`
+
+> *"A lesson without pain is meaningless."*
+> — Edward Elric
+
+---
+
+# 🧠 Developer Philosophy
+
+<div align="center">
+
+### ⚔️ Train → Build → Break → Debug → Improve
+
+<br>
+
+**Write code that survives the production arc.**
 
 </div>
 
 ---
 
-# 🤝 Let's Build Something
-
-I'm always interested in **backend engineering, Java/Spring Boot opportunities, collaborative projects and interesting technical challenges.**
+# 🤝 Let's Connect
 
 <div align="center">
 
+### Looking for the next quest... 🚀
+
+Whether it's **Java**, **Spring Boot**, **backend engineering**, **open-source**, or an interesting project —
+
+### Let's build something awesome.
+
+<br>
+
 <a href="https://mukundkumar.framer.website/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-7c3aed?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mukundkumar-g/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼_LINKEDIN-06b6d4?style=for-the-badge"/>
 </a>
 
 <a href="mailto:mukundkumar3146@gmail.com">
-<img src="https://img.shields.io/badge/📩_Email-Let's_Talk-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📩_EMAIL-f43f5e?style=for-the-badge"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, consider giving my repositories a star!
+### ⭐ If you like my work, consider starring a repository!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:172554,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:312e81,100:06b6d4&height=120&section=footer"/>
 
 </div>
